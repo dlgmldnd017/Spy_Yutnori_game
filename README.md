@@ -575,67 +575,60 @@ const props = defineProps({
 ![회원가입](https://github.com/dlgmldnd017/Spy_Yutnori_game/assets/42001306/8b5d0176-bada-4ff8-a1cf-a661bd72dcab)
 
 ##### 로그인
-![로그인gif](/uploads/d1501d1d1420a93045b4f39b9e8c3c54/로그인gif.gif)
 
 #### 📌홈 화면
 
 ##### 홈 화면 진입 후 로그아웃
-![로그아웃gif](/uploads/907b56750a250d3d98698ddfd8976bb6/로그아웃gif.gif)
+![로그아웃](https://github.com/dlgmldnd017/Spy_Yutnori_game/assets/42001306/956ecbf7-b4b3-47e9-be42-e0800bc0bbf9)
 
 ##### 도움말
-![도움말gif](/uploads/cfbd71ae76af2c426326b4f642a09e69/도움말gif.gif)
+![도움말](https://github.com/dlgmldnd017/Spy_Yutnori_game/assets/42001306/b15a7e01-6269-46d7-8c06-d055a06e385f)
 
 ##### 게임 관련 설정창 조작
-![설정창gif](/uploads/513998d40b80469a3c74561908d1c7e0/설정창gif.gif)
+![설정창](https://github.com/dlgmldnd017/Spy_Yutnori_game/assets/42001306/29745758-193f-4d3b-9f40-f90188b13ed0)
 
 ##### 친구 추가
-![친구추가gif](/uploads/b8485f55ebea18e46b05eb67d493a441/친구추가gif.gif)
+![친구추가](https://github.com/dlgmldnd017/Spy_Yutnori_game/assets/42001306/83b0b990-c115-4c56-b317-dd5a60611131)
 
 ##### 친구 채팅
-![친구채팅gif](/uploads/5eed3ae008464948a91ff2a9f6348b98/친구채팅gif.gif)
-![친구채팅2gif](/uploads/7f4df9022e0082162cdf8c7c3e6cef5b/친구채팅2gif.gif)
+![친구채팅](https://github.com/dlgmldnd017/Spy_Yutnori_game/assets/42001306/318521a4-7bc0-43ae-b0cb-f3aa4309bb2a)
+![친구채팅2](https://github.com/dlgmldnd017/Spy_Yutnori_game/assets/42001306/63d17404-73de-4d06-8de4-daf53c3a2d98)
 
 #### 📌프로필 화면
 
 ##### 프로필 홈화면
-![내정보gif](/uploads/9a18f73a7ef26e1b280a015282d5e7f8/내정보gif.gif)
+![내정보](https://github.com/dlgmldnd017/Spy_Yutnori_game/assets/42001306/eee132b1-c001-4c9d-8de2-120ad54a8200)
 
 ##### 닉네임 변경
-![닉네임변경gif](/uploads/8faa8c5b55c200f77619d0b47431ddff/닉네임변경gif.gif)
 
 ##### 비밀번호 변경
-![비밀번호변경gif](/uploads/5665fd64df7c3390ace33efc47a0cf78/비밀번호변경gif.gif)
+![비밀번호변경](https://github.com/dlgmldnd017/Spy_Yutnori_game/assets/42001306/148daea0-e614-40b6-b911-07c5bfbb012f)
 
 #### 📌게임 방 화면
 
 ##### 게임 방 리스트 및 대기 방 입장
-![방입장gif](/uploads/8fef9ab2144abe26b52a80fa0f84373a/방입장gif.gif)
+![방입장](https://github.com/dlgmldnd017/Spy_Yutnori_game/assets/42001306/60b548e8-eea3-4b92-b7c2-41fb85394f0e)
 
 #### 📌게임 진행
 
 ##### 게임 시작 시 캐릭터 픽 창 진입
-![픽창입장gif](/uploads/58455ec15cf72064265b1d346816917b/픽창입장gif.gif)
+![픽창입장](https://github.com/dlgmldnd017/Spy_Yutnori_game/assets/42001306/76450459-182e-43de-bf41-c6932afd2063)
 
 ##### 캐릭터 픽 이후 상대 팀 밀정 픽 창 진입
-![픽과밀정픽gif](/uploads/cdb026a3b0ab24e619b6ec490f8df11a/픽과밀정픽gif.gif)
 
 ##### 게임 시작
-![게임입장gif](/uploads/fba87929038f33309200b2ef1a8268d4/게임입장gif.gif)
+![게임입장](https://github.com/dlgmldnd017/Spy_Yutnori_game/assets/42001306/9ed1e59a-8f06-4fbd-9212-7cc833c5271e)
 
 ##### 윷 던지기
-![윷던지기유닛이동미션도착gif](/uploads/26fca4298e4f80da28919fcbfb2caac7/윷던지기유닛이동미션도착gif.gif)
 
 ##### 미니 게임 실행
-![미션gif](/uploads/5ba2ecc6be69f72d979766ea78ac023d/미션gif.gif)
 
 ##### 미니 게임 성공 후 밀정 힌트 얻기
-![힌트얻기gif](/uploads/fceda0ddf994107565b0dc0788adb80d/힌트얻기gif.gif)
 
 ##### 밀정 추리
-![추리gif](/uploads/0e903f4f791ccca8c68c614596042895/추리gif.gif)
 
 ##### 게임 승패
-![gif-ezgif.com-resize](/uploads/b85127cbeeb3d75518532b572f49f7fc/gif-ezgif.com-resize.gif)
+![gif-ezgif com-resize](https://github.com/dlgmldnd017/Spy_Yutnori_game/assets/42001306/cf601907-d5d3-4be5-b844-80c495aa30ad)
 
 
 ## 🌐 출처
