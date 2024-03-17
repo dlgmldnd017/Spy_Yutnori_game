@@ -572,7 +572,7 @@ const props = defineProps({
 #### 📌진입 화면
 
 ##### 회원가입
-![image](https://github.com/dlgmldnd017/Spy_Yutnori_game/assets/42001306/4486594c-c03f-4248-839e-0a2d47fa8477)
+![회원가입](https://github.com/dlgmldnd017/Spy_Yutnori_game/assets/42001306/8b5d0176-bada-4ff8-a1cf-a661bd72dcab)
 
 ##### 로그인
 ![로그인gif](/uploads/d1501d1d1420a93045b4f39b9e8c3c54/로그인gif.gif)
