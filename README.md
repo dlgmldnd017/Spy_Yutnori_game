@@ -561,19 +561,18 @@ const props = defineProps({
 ## 🔧설계
 
 ### 📌아키텍처 설계
+![image](https://github.com/dlgmldnd017/Spy_Yutnori_game/assets/42001306/d86ad999-554d-464a-b8ee-0a81013c553c)
 
-![system.drawio](/uploads/19ec72502e78fbdb63f8a886bb8ea577/system.drawio.png)
 
 ### 📌DB 설계 (ERD)
-
-![ERD](/uploads/65a9590cdbbf1a6775460d6dc24bbcaf/ERD.png)
+![image](https://github.com/dlgmldnd017/Spy_Yutnori_game/assets/42001306/6687b593-205b-43f5-b221-7b935d8fe1be)
 
 ## 💻실제 화면
 
 #### 📌진입 화면
 
 ##### 회원가입
-![회원가입gif](/uploads/e12dc378ea55863c4fd4318debc5c344/회원가입gif.gif)
+![image](https://github.com/dlgmldnd017/Spy_Yutnori_game/assets/42001306/4486594c-c03f-4248-839e-0a2d47fa8477)
 
 ##### 로그인
 ![로그인gif](/uploads/d1501d1d1420a93045b4f39b9e8c3c54/로그인gif.gif)
